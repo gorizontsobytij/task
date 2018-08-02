@@ -1,4 +1,4 @@
- This task, based on the Laravel framework. While without Vue.js (in project)
+ This task, based on the Laravel framework. 
 
 
 Task:
